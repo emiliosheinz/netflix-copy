@@ -3,5 +3,9 @@
   max-width: 100%;
   background: transparent;
   position: absolute;
-  padding: 1rem 2rem;
+  padding: 0.5rem 4rem;
+
+  &__image {
+    height: 4rem;
+  }
 }
