@@ -2,7 +2,7 @@
 Copy of Netflix interface with React lib. That is just a practice repository to learn more about css and react.
 
 # :computer: Preview
-![](netflix-preview.gif)
+![](netflix-review.gif)
 
 # :fire: Used technologies
 - CSS3
