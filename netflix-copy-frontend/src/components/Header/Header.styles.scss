@@ -1,0 +1,11 @@
+.headerContainer {
+  display: flex;
+  max-width: 100%;
+  background: transparent;
+  position: absolute;
+  padding: 0.5rem 4rem;
+
+  &__image {
+    height: 4rem;
+  }
+}
