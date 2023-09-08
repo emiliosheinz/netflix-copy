@@ -9,4 +9,4 @@ Copy of Netflix interface with React lib. That is just a practice repository to 
 - React
 
 # :man: Contributors 
-- @emilioheinz
+- [@emiliosheinz](https://github.com/emilisoheinz)
